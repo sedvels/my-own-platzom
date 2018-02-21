@@ -1,5 +1,5 @@
 {
-  "name": "my-oun-platzom",
+  "name": "@sedvels/platzom",
   "version": "0.1.0",
   "description": "Una aplicación demo del curso fundamentos de JS de platzi para aprender a crear módulos en NPM",
   "main": "dist/src/platzom.js",
@@ -14,7 +14,8 @@
   "keywords": [
     "fundamentos",
     "js",
-    "javascript"
+    "javascript",
+    "platzom"
   ],
   "author": "Sergio Velasquez <sergio.velasquez.s@gmail.com>",
   "license": "MIT",
